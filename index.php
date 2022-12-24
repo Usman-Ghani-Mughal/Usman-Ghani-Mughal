@@ -6,7 +6,7 @@
       <title>Usman Ghani Mughal</title>
       <meta name="description" content="">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <link rel="icon" href="/assets/img/profile/usman_pic.jpg"/>
+      <link rel="icon" href="/assets/img/profile/web_logo.jpg"/>
       <!-- Css -->
       <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
       <link href="css/main.css" rel="stylesheet" type="text/css" media="all" />
@@ -343,7 +343,7 @@
                            <hr class="divider divider-lg divider-center ">
                         </div>
                         <div class="col-md-6 text-left mb-2 mb-lg-0">
-                           <a class="float-left" href="assets/docs/Usman_Resume.pdf">
+                           <a class="float-left" href="assets/docs/Usman_Ghani_Mughal.pdf">
                               <div class="media  align-items-center">
                                  <div class="outer radius-2 mr-3">
                                     <div class="ui-icon ui-icon-md inner ">
@@ -372,7 +372,7 @@
                            </a>
                         </div>
                         <div class="col-md-6 text-left mb-2 mb-lg-0">
-                           <a class="float-md-right" href="assets/docs/Usman_Resume.pdf">
+                           <a class="float-md-right" href="assets/docs/Usman_Ghani_Mughal.pdf">
                               <div class="media  align-items-center">
                                  <div class="outer radius-2  mr-3">
                                     <div class="ui-icon ui-icon-md inner ">
@@ -473,12 +473,218 @@
                            </div>
                         </div>
                      </div>
+                     <!-- *************************************************************************************************************** -->
+                     <div class="row mb-5 mt-6">
+                        <div class="col">
+                           <h6 class="font-weight-700  mb-0 text-uppercase mb-2">Work Experience</h6>
+                           <hr class="divider divider-left divider-lg float-left">
+                        </div>
+                     </div>
+                     <div class="row ">
+                        <div class="col-md-12">
+                           <div class="timeline">
+                              <div class="outer radius-2 position-absolute">
+                                 <div class="ui-icon ui-icon-md inner ">
+                                    <div class="ui-icon-inner">
+                                       <svg version="1.1" class="max-width-1-4 svg-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                                          viewBox="0 0 517 465.8" enable-background="new 0 0 517 465.8;" xml:space="preserve">
+                                          <g>
+                                             <g>
+                                                <path  d="M488.9,79.3H348.1V28.1c0-14.1-11.5-25.6-25.6-25.6h-128c-14.1,0-25.6,11.5-25.6,25.6v51.2H28.1
+                                                   C14,79.3,2.5,90.8,2.5,104.9v332.8c0,14.1,11.5,25.6,25.6,25.6h460.8c14.1,0,25.6-11.5,25.6-25.6V104.9
+                                                   C514.5,90.8,503,79.3,488.9,79.3z M194.5,28.1h128v51.2h-128V28.1z M488.9,437.7H28.1V232.9h192v25.6c0,21.2,17.2,38.4,38.4,38.4
+                                                   s38.4-17.2,38.4-38.4v-25.6h192V437.7z M245.7,258.5v-25.6h25.6v25.6c0,7.1-5.7,12.8-12.8,12.8
+                                                   C251.4,271.3,245.7,265.6,245.7,258.5z M488.9,207.3H28.1V104.9h460.8V207.3z"/>
+                                             </g>
+                                          </g>
+                                       </svg>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class=" pt-7">
+                                 <!-- ====================================================================================================== -->
+                                 <div class="timeline-content">
+                                    <div class="mb-1">
+                                       <h6 class="font-weight-600 font-size-15 mb-1">Senior Data Engineer – Afiniti </h6>
+                                       <div class="font-size-13 text-dark mb-1"><i class="fa fa-calendar mr-2 text-muted"></i>Noc 2022 - <span class="current">Current</span></div>
+                                    </div>
+                                    <p class="mb-0">
+                                       <ul>
+                                          <li>
+                                             Creates Data Pipelines for prepareing US Demographics Data (Python | Airflow | Parallel Processing | REST API | MongoDB)
+                                          </li>
+                                          <li>
+                                             Build ETL and pipelines for US and Mexico PORT Data (Python | AirFlow | Multiprocess | SFTP | MongoDB
+                                          </li>
+                                       </ul>
+                                       
+                                    </p>
+                                 </div>
+                                 <!-- ====================================================================================================== -->
+                                 <!-- ====================================================================================================== -->
+                                 <div class="timeline-content">
+                                    <div class="mb-1">
+                                       <h6 class="font-weight-600 font-size-15 mb-1">Big Data Engineer – The Entertainer </h6>
+                                       <div class="font-size-13 text-dark mb-1"><i class="fa fa-calendar mr-2 text-muted"></i>May 2022 - Nov 2022</div>
+                                    </div>
+                                    <p class="mb-0">
+                                       <ul>
+                                          <li>
+                                             Build ETL Pipelines using (Data Factory | Python | MySQL | Azure Synapse Analytics | Apache Spark)
+                                          </li>
+                                          <li>
+                                             Build Data Lake in AWS S3 and wrote ELT processes to integrate data from multiple sources. (Apache Nifi | Kafka | Hadoop | Hive )
+                                          </li>
+                                          <li>
+                                             Build Analytics Pipelines using PySpark.(AWS DataBricks | Spark | Amazon EMR | SalesForce)
+                                          </li>
+                                          <li>
+                                             Perform Data Modeling for DWH on Azure Synapse Analytics
+                                          </li>
+                                          <li>
+                                             Build scripts to automate the process of data quality checks.( Python)
+                                          </li>
+                                          <li>
+                                             Build AWS Lambda function which runs when another Data Bricks job pushed csv file into S3 bucket. (Python, AWS lambda)
+                                          </li>
+                                       </ul>
+                                       
+                                    </p>
+                                 </div>
+                                 <!-- ====================================================================================================== -->
+                                 <!-- ====================================================================================================== -->
+                                 <div class="timeline-content">
+                                    <div class="mb-1">
+                                       <h6 class="font-weight-600 font-size-15 mb-1">Data Engineer – Afiniti </h6>
+                                       <div class="font-size-13 text-dark mb-1"><i class="fa fa-calendar mr-2 text-muted"></i>April 2021 - May 2022</div>
+                                    </div>
+                                    <p class="mb-0">
+                                       <ul>
+                                          <li>
+                                             Develop and Deploy Data Pipeline for multiple clients e.g. AT&T, T- Mobile, virgin media in US and UK.
+                                             (AirFlow | MySQL | Mongo | AWS RedShift | Nifi)
+                                          </li>
+                                          <li>
+                                             ETL processes | Stored procedure | Feature engineering | Data Modeling.(MongoDB, MySQL | DWH | Nifi | Spark)
+                                          </li>
+                                          <li>
+                                             Build and optimize processes based on Multiprocess and Multithread in order to improve the efficiency of a process in controlled
+                                             environment so we can manage QPS and use resources efficiently. (python | OS)
+                                          </li>
+                                          <li>
+                                             Data-Escrow Software : Programming model which assists with
+                                             decreasing the expense and work on the effectiveness of a dataset in light of Cryptography, 
+                                             Encryption and Decryption utilizing SHA-256 in way that need to decrypt row by row utilizing
+                                             individual decoding keys given by third party. (python)
+                                          </li>
+                                          <li>
+                                             Web Scraping Engines for acquiring publicly available data from multiple sources without getting blocked with acceptable QPS. (python)
+                                          </li>
+                                          <li>
+                                             Data Modeling and Data warehouse pipelines (MySQL | Redshift)
+                                          </li>
+                                       </ul>
+                                       
+                                    </p>
+                                 </div>
+                                 <!-- ====================================================================================================== -->
+                                 <div class="timeline-content">
+                                    <div class="mb-1">
+                                       <h6 class="font-weight-600 font-size-15 mb-1">Full Stack Engineer – One Day Event </h6>
+                                       <div class="font-size-13 text-dark mb-1"><i class="fa fa-calendar mr-2 text-muted"></i>Feb 2021 - April 2021</div>
+                                    </div>
+                                    <p class=" mb-0">
+                                       <strong><a href="https://onedayevent.com">onedayevent</a></strong>
+                                       Wrote backend API using Node and Implement UI designs on React. 
+                                       Build payment system through electronic invoice, using stripe API. 
+                                       Reduced the page | data size and optimize the loading time.
+                                       Fixed Bugs in the system.
+                                    </p>
+                                 </div>
+                                 <!-- ====================================================================================================== -->
+                                 <div class="timeline-content">
+                                    <div class="mb-1">
+                                       <h6 class="font-weight-600 font-size-15 mb-1">Software Engineer & Data Analyst (Free Lance) - Fiverr</h6>
+                                       <div class="font-size-13 text-dark mb-1"><i class="fa fa-calendar mr-2 text-muted"></i>MAR 2019 - OCT 2020</div>
+                                    </div>
+                                    <p class=" mb-0">
+                                       <ul>
+                                          <li>Stock (Time Series) forecasting using deep learning (LSTM)</li>
+                                          <li>Heart Disease Classification using ML (Random Forest)</li>
+                                          <li>Retail Churn Prediction using ML (Random Forest)</li>
+                                          <li>Product Affinity Analysis using Apriori algorithm</li>
+                                          <li>Extract data from Pdf (retail invoices) using python</li>
+                                          <li>C++ program optimization based on memory management</li>
+                                          <li>assabuur.com Free Classified Adds Web App (PHP)</li>
+                                       </ul>
+                                    </p>
+                                 </div>
+                                 <!-- ====================================================================================================== -->
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <!-- *************************************************************************************************************** -->
                      <div class="row mb-5 mt-6">
                         <div class="col">
                            <h6 class="font-weight-700  mb-0 text-uppercase mb-2">Professional skills</h6>
                            <hr class="divider divider-left divider-lg float-left">
                         </div>
                      </div>
+                     <!-- =============================================================================================================== -->
+                     <div class="row vc skill dev mb-5">
+                        <div class="col-md-11">
+                           <ul class="skills-list list-inline mb-0">
+                              <li>
+                                 <h6 class="font-weight-600 font-size-14 text-uppercase">SPARK</h6>
+                                 <div class="progress mb-3">
+                                    <div class="percentage">
+                                       90%
+                                    </div>
+                                 </div>
+                              </li>
+                              <li>
+                                 <h6 class="font-weight-600 font-size-14 text-uppercase">KAFKA</h6>
+                                 <div class="progress mb-3">
+                                    <div class="percentage">
+                                       85%
+                                    </div>
+                                 </div>
+                              </li>
+                              <li>
+                                 <h6 class="font-weight-600 font-size-14 text-uppercase">HADOOP</h6>
+                                 <div class="progress mb-3">
+                                    <div class="percentage">
+                                       90%
+                                    </div>
+                                 </div>
+                              </li>
+                              <li>
+                                 <h6 class="font-weight-600 font-size-14 text-uppercase">HIVE | HUDI</h6>
+                                 <div class="progress mb-3">
+                                    <div class="percentage">
+                                       80%
+                                    </div>
+                                 </div>
+                              </li>
+                              <li>
+                                 <h6 class="font-weight-600 font-size-14 text-uppercase">AVRO | PARQUET</h6>
+                                 <div class="progress mb-3">
+                                    <div class="percentage">
+                                       80%
+                                    </div>
+                                 </div>
+                              </li>
+                           </ul>
+                        </div>
+                        <div class="col-lg-1">
+                           <div class="title dev font-size-14">
+                              <span>Big Data</span>
+                           </div>
+                        </div>
+                     </div>
+                     <!-- =============================================================================================================== -->
+                     <!-- =============================================================================================================== -->
                      <div class="row vc skill des mb-5">
                         <div class="col-md-11">
                            <ul class="skills-list list-inline mb-0">
@@ -557,6 +763,53 @@
                            </div>
                         </div>
                      </div>
+                     <!-- =============================================================================================================== -->
+                     <div class="row vc skill prs">
+                        <div class="col-md-11">
+                           <ul class="skills-list list-inline mb-0">
+                              <li>
+                                 <h6 class="font-weight-600 font-size-14 text-uppercase">AIRFLOW</h6>
+                                 <div class="progress mb-3">
+                                    <div class="percentage">
+                                       90%
+                                    </div>
+                                 </div>
+                              </li>
+                              <li>
+                                 <h6 class="font-weight-600 font-size-14 text-uppercase">AZURE DATAFACTORY</h6>
+                                 <div class="progress mb-3">
+                                    <div class="percentage">
+                                       85%
+                                    </div>
+                                 </div>
+                              </li>
+                              <li>
+                                 <h6 class="font-weight-600 font-size-14 text-uppercase">NIFI</h6>
+                                 <div class="progress">
+                                    <div class="percentage">
+                                       70%
+                                    </div>
+                                 </div>
+                              </li>
+                              <li>
+                                 <h6 class="font-weight-600 font-size-14 text-uppercase">BASH</h6>
+                                 <div class="progress">
+                                    <div class="percentage">
+                                       80%
+                                    </div>
+                                 </div>
+                              </li>
+                           </ul>
+                        </div>
+                        <div class="col-lg-1">
+                           <div class="title prs font-size-14">
+                              <span>ETL TOOLS</span>
+                           </div>
+                        </div>
+                     </div>
+                     <br>
+                     <!-- =============================================================================================================== -->
+                     <!-- =============================================================================================================== -->
                      <div class="row vc skill dev mb-5">
                         <div class="col-md-11">
                            <ul class="skills-list list-inline mb-0">
@@ -608,6 +861,7 @@
                            </div>
                         </div>
                      </div>
+                     <!-- =============================================================================================================== -->
                      <div class="row vc skill prs">
                         <div class="col-md-11">
                            <ul class="skills-list list-inline mb-0">
@@ -660,106 +914,8 @@
                            </div>
                         </div>
                      </div>
-                     <div class="row mb-5 mt-6">
-                        <div class="col">
-                           <h6 class="font-weight-700  mb-0 text-uppercase mb-2">Work Experience</h6>
-                           <hr class="divider divider-left divider-lg float-left">
-                        </div>
-                     </div>
-                     <div class="row ">
-                        <div class="col-md-12">
-                           <div class="timeline">
-                              <div class="outer radius-2 position-absolute">
-                                 <div class="ui-icon ui-icon-md inner ">
-                                    <div class="ui-icon-inner">
-                                       <svg version="1.1" class="max-width-1-4 svg-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                                          viewBox="0 0 517 465.8" enable-background="new 0 0 517 465.8;" xml:space="preserve">
-                                          <g>
-                                             <g>
-                                                <path  d="M488.9,79.3H348.1V28.1c0-14.1-11.5-25.6-25.6-25.6h-128c-14.1,0-25.6,11.5-25.6,25.6v51.2H28.1
-                                                   C14,79.3,2.5,90.8,2.5,104.9v332.8c0,14.1,11.5,25.6,25.6,25.6h460.8c14.1,0,25.6-11.5,25.6-25.6V104.9
-                                                   C514.5,90.8,503,79.3,488.9,79.3z M194.5,28.1h128v51.2h-128V28.1z M488.9,437.7H28.1V232.9h192v25.6c0,21.2,17.2,38.4,38.4,38.4
-                                                   s38.4-17.2,38.4-38.4v-25.6h192V437.7z M245.7,258.5v-25.6h25.6v25.6c0,7.1-5.7,12.8-12.8,12.8
-                                                   C251.4,271.3,245.7,265.6,245.7,258.5z M488.9,207.3H28.1V104.9h460.8V207.3z"/>
-                                             </g>
-                                          </g>
-                                       </svg>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class=" pt-7">
-                                 <div class="timeline-content">
-                                    <div class="mb-1">
-                                       <h6 class="font-weight-600 font-size-15 mb-1">Data Engineer – Afiniti </h6>
-                                       <div class="font-size-13 text-dark mb-1"><i class="fa fa-calendar mr-2 text-muted"></i>April 2021 - <span class="current">Current</span></div>
-                                    </div>
-                                    <p class="mb-0">
-                                       <ul>
-                                          <li>
-                                             Develop and Deploy Data Pipeline for multiple clients e.g. AT&T, T-Mobile, 
-                                             virgin media in US and UK.(Apache AirFlow)
-                                          </li>
-                                          <li>
-                                             ETL processes | Stored procedure | Feature engineering | Data Modeling (MongoDB, MySQL)
-                                          </li>
-                                          <li>
-                                             Build and optimize processes based on Multiprocess and
-                                             Multithread in order to improve the efficiency of a process in
-                                             controlled environment so we can manage QPS and use
-                                             resources efficiently. (python)
-                                          </li>
-                                          <li>
-                                             Data-Escrow Software : Programming model which assists with
-                                             decreasing the expense and work on the effectiveness of a dataset in light of Cryptography, 
-                                             Encryption and Decryption utilizing SHA-256 in way that need to decrypt row by row utilizing
-                                             individual decoding keys given by third party. (python)
-                                          </li>
-                                          <li>
-                                             Web Scraping Engines for acquiring publicly available data from
-                                             multiple sources without getting blocked with acceptable QPS.(python)
-                                          </li>
-                                          <li>
-                                             Help and Guide to AI teams to comprehend and utilize third party
-                                             data sets so they can work on the proficiency of their models.
-                                          </li>
-                                       </ul>
-                                       
-                                    </p>
-                                 </div>
-                                 <div class="timeline-content">
-                                    <div class="mb-1">
-                                       <h6 class="font-weight-600 font-size-15 mb-1">Full Stack Engineer – One Day Event </h6>
-                                       <div class="font-size-13 text-dark mb-1"><i class="fa fa-calendar mr-2 text-muted"></i>Feb 2021 - April 2021</div>
-                                    </div>
-                                    <p class=" mb-0">
-                                       <strong><a href="https://onedayevent.com">onedayevent</a></strong>
-                                       Wrote backend API using Node and Implement UI designs on React. 
-                                       Build payment system through electronic invoice, using stripe API. 
-                                       Reduced the page | data size and optimize the loading time.
-                                       Fixed Bugs in the system.
-                                    </p>
-                                 </div>
-                                 <div class="timeline-content">
-                                    <div class="mb-1">
-                                       <h6 class="font-weight-600 font-size-15 mb-1">Software Engineer & Data Analyst (Free Lance) - Fiverr</h6>
-                                       <div class="font-size-13 text-dark mb-1"><i class="fa fa-calendar mr-2 text-muted"></i>MAR 2019 - OCT 2020</div>
-                                    </div>
-                                    <p class=" mb-0">
-                                       <ul>
-                                          <li>Stock (Time Series) forecasting using deep learning (LSTM)</li>
-                                          <li>Heart Disease Classification using ML (Random Forest)</li>
-                                          <li>Retail Churn Prediction using ML (Random Forest)</li>
-                                          <li>Product Affinity Analysis using Apriori algorithm</li>
-                                          <li>Extract data from Pdf (retail invoices) using python</li>
-                                          <li>C++ program optimization based on memory management</li>
-                                          <li>assabuur.com Free Classified Adds Web App (PHP)</li>
-                                       </ul>
-                                    </p>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
+                     <!-- =============================================================================================================== -->
+                     
                      <div class="row mb-5 mt-6">
                         <div class="col">
                            <h6 class="font-weight-700  mb-0 text-uppercase mb-2">Education</h6>
@@ -813,6 +969,7 @@
                            </div>
                         </div>
                      </div>
+                     <!-- ################################################################################################################################### -->
                      <div class="row mb-5 mt-6">
                         <div class="col">
                            <h6 class="font-weight-700  mb-0 text-uppercase mb-2">Services</h6>
@@ -848,8 +1005,7 @@
                                     </div>
                                  </div>
                               </div>
-                              <h6 class="font-weight-600 font-size-15 mb-1 mt-3">Data Pipelines 
-                                 (AirFlow|Luigi)</h6>
+                              <h6 class="font-weight-600 font-size-15 mb-1 mt-3"> <b>Data Pipelines</b>  (AirFlow|Luigi)</h6>
                               <!-- <p class="mb-0">Can Build data lineage quality reliable scalable Data Pipelines cutting edge ETL Technologies</p> -->
                            </div>
                         </div>
@@ -887,7 +1043,7 @@
                                     </div>
                                  </div>
                               </div>
-                              <h6 class="font-weight-600 font-size-15 mb-1 mt-3">ETL Processes<br>Stored Procedure<br>Feature engineering </h6>
+                              <h6 class="font-weight-600 font-size-15 mb-1 mt-3"> <b>ETL Processes</b> <br> <b>Stored Procedure</b> <br> <b>Feature engineering</b> </h6>
                               <!-- <p class="mb-0">Can write efficient reliable dynamic OLTP to OLAP ETL processes and reuseable dynamic Stored procedures (SQL - NOSQL)</p> -->
                            </div>
                         </div>
@@ -932,7 +1088,7 @@
                                     </div>
                                  </div>
                               </div>
-                              <h6 class="font-weight-600 font-size-15 mb-1 mt-3">Data Modeling <br>(SQL, NOSQL)</h6>
+                              <h6 class="font-weight-600 font-size-15 mb-1 mt-3"> <b>Data Modeling</b> <br>(SQL, NOSQL)</h6>
                               <!-- <p class="mb-0">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p> -->
                            </div>
                         </div>
@@ -994,7 +1150,7 @@
                                     </div>
                                  </div>
                               </div>
-                              <h6 class="font-weight-600 font-size-15 mb-1 mt-3">Cloud Data Warehouses<br>(Amazon Redshift)</h6>
+                              <h6 class="font-weight-600 font-size-15 mb-1 mt-3"> <b>Cloud Data Warehouses</b> <br>(Amazon Redshift)  <br> (Azure Synapse Analytics)</h6>
                               <!-- <p class="mb-0">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p> -->
                            </div>
                         </div>
@@ -1054,7 +1210,7 @@
                                     </div>
                                  </div>
                               </div>
-                              <h6 class="font-weight-600 font-size-15 mb-1 mt-3">Data Lakes<br>(Spark)</h6>
+                              <h6 class="font-weight-600 font-size-15 mb-1 mt-3"> <b>Data Lakes</b> <br>(S3 | Delta Lake)</h6>
                               <!-- <p class="mb-0">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p> -->
                            </div>
                         </div>
@@ -1083,7 +1239,7 @@
                                     </div>
                                  </div>
                               </div>
-                              <h6 class="font-weight-600 font-size-15 mb-1 mt-3">Web Scraping<br>(Scrapy|Requests)</h6>
+                              <h6 class="font-weight-600 font-size-15 mb-1 mt-3"> <b>Web Scraping</b> <br>(Scrapy|Requests)</h6>
                               <!-- <p class="mb-0">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p> -->
                            </div>
                         </div>
@@ -1093,6 +1249,7 @@
                            <hr class="divider divider-md divider-center ">
                         </div>
                      </div>
+                     <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
                      <div class="row">
                         <div class="col-md-4 mb-3 mb-lg-0">
                            <div class="service text-center">
@@ -1145,7 +1302,7 @@
                                     </div>
                                  </div>
                               </div>
-                              <h6 class="font-weight-600 font-size-15 mb-1 mt-3">REST API<br>(Python|Node)</h6>
+                              <h6 class="font-weight-600 font-size-15 mb-1 mt-3"> <b>REST API</b> <br>(Python|Node)</h6>
                               <!-- <p class="mb-0">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p> -->
                            </div>
                         </div>
@@ -1205,7 +1362,7 @@
                                     </div>
                                  </div>
                               </div>
-                              <h6 class="font-weight-600 font-size-15 mb-1 mt-3">Full Stack Development<br>(Node|React)</h6>
+                              <h6 class="font-weight-600 font-size-15 mb-1 mt-3"> <b>Full Stack Development</b><br>(Node|React)</h6>
                               <!-- <p class="mb-0">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p> -->
                            </div>
                         </div>
@@ -1234,12 +1391,166 @@
                                     </div>
                                  </div>
                               </div>
-                              <h6 class="font-weight-600 font-size-15 mb-1 mt-3">Machine Learning<br>Supervised(C|R)<br>Unsupervised</h6>
+                              <h6 class="font-weight-600 font-size-15 mb-1 mt-3"> <b>Machine Learning</b> <br>Supervised(C|R)<br>Unsupervised</h6>
+                              <!-- <p class="mb-0">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p> -->
+                           </div>
+                        </div>                       
+                     </div>
+                     <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+                     <div class="row">
+                        <div class="col-md-12 mt-6 mb-6">
+                           <hr class="divider divider-md divider-center ">
+                        </div>
+                     </div>
+                     <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+                     <div class="row">
+                        <div class="col-md-4 mb-3 mb-lg-0">
+                           <div class="service text-center">
+                              <div class="outer ui-icon-outer-lg  radius-2 m-auto">
+                                 <div class="ui-icon ui-icon-lg  inner ">
+                                    <div class="ui-icon-inner ui-icon-inner-lg">
+                                       <svg version="1.1" class="max-width-1-7 svg-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                                          viewBox="0 0 517 517" enable-background="new 0 0 517 517;" xml:space="preserve">
+                                          <g>
+                                             <g>
+                                                <path  d="M488.9,2.5H284.1c-6.8,0-13.3,2.7-18.1,7.5L10,266c-10,10-10,26.2,0,36.2L214.8,507c10,10,26.2,10,36.2,0
+                                                   l256-256c4.8-4.8,7.5-11.3,7.5-18.1V28.1C514.5,14,503,2.5,488.9,2.5z M488.9,232.9l-256,256L28.1,284.1l256-256h204.8
+                                                   L488.9,232.9L488.9,232.9z"/>
+                                             </g>
+                                          </g>
+                                          <g>
+                                             <g>
+                                                <path  d="M251.7,299.5c-7.4-7.4-15.7-11-24.6-10.6c-8.3,0.4-17.9,4.2-29.4,11.9c-8.5,5.7-12.6,6.5-14,6.6
+                                                   c-0.7,0.1-2.3,0.2-4.8-2.3c-1.5-1.5-1.8-2.6-1.4-4.5c1.2-5.2,9.8-14.3,14.6-15c2.1-0.3,4.6,0.6,7.2,2.5c3,2.3,6.7,3.3,10,2.7
+                                                   c2.9-0.4,5.4-2,8.5-4.9c2.3-3,3.1-6.7,2.4-9.7c-0.4-2.5-1.7-6.2-5.8-9.1c-6.5-4.7-13.5-7.1-20.8-7c-9.5,0.2-18.5,4.5-26.9,12.9
+                                                   c-8.1,8.1-12.9,16.6-14.4,25.3c-1.4,9.5,1.6,18.2,8.7,25.2c7.2,7.2,15.9,10.3,25.5,9.1c6.9-1,15.1-4.5,25.1-10.7
+                                                   c10.7-6.8,15.3-7.3,16.4-7.3c1.5,0,3.8,1.3,6.2,3.7c0.8,0.8,2.2,2.2,1,6.7c-2.3,8.5-11.4,16.2-17,16.9c-1.1,0.2-4.3,0.6-10-4.2
+                                                   c-3.6-2.7-7-3.2-9.5-3.1c-3.1,0.2-5.9,1.2-8.8,4.5c-2,2.4-3,5.2-3,8.3c0,4,1.8,7.6,4.8,9.8c9.3,7.8,19.1,11.1,28.9,9.8
+                                                   c8.9-1.1,17.7-5.9,26.3-14.5c7.7-7.7,12.3-16.2,13.7-25.3C262.3,316.5,259.2,307,251.7,299.5z"/>
+                                             </g>
+                                          </g>
+                                          <g>
+                                             <g>
+                                                <path  d="M329.5,249.3c-2.4-2.4-5.5-3.7-9.4-3.7c-3.2,0.2-6.1,1.6-8.5,4l-29.5,29.5l-13.2-13.2l25.3-25.3
+                                                   c2.6-2.6,4-5.9,3.9-9.1c0-3.3-1.2-6.4-3.6-8.8c-2.4-2.4-5.5-3.7-9.2-3.7c-2.3,0.1-5.6,0.9-8.7,4l-25.5,25.5L239.8,238l29-29
+                                                   c2.5-2.5,3.8-5.6,3.8-9.2c0-3.3-1.3-6.3-3.6-8.6c-2.3-2.3-5.4-3.7-9.3-3.7c-3.2,0.2-6.1,1.5-8.5,3.9l-31.8,31.8
+                                                   c-5.7,5.7-6.6,11.8-6.3,15.9c0.4,5,2.6,9.6,6.5,13.5L267,300c3.8,3.8,8.4,6,13.4,6.4c4.1,0.3,10.2-0.5,15.9-6.2l33-33
+                                                   c2.5-2.5,3.9-5.7,3.9-9.2C333.1,254.7,331.8,251.6,329.5,249.3z"/>
+                                             </g>
+                                          </g>
+                                          <g>
+                                             <g>
+                                                <path  d="M392.6,181c-1.6-12.7-8-24.6-18.8-35.4c-10.8-10.8-22.7-17.1-35.4-18.8c-15-2-28.4,2.8-40,14.4
+                                                   c-11.6,11.6-16.5,25.1-14.4,40.1c1.8,12.5,8.2,24.3,19,35.1s22.6,17.2,35.1,19c15,2.1,28.6-2.8,40.2-14.4
+                                                   C389.9,209.4,394.7,196,392.6,181z M360.8,203.5c-5.9,5.9-12,8.2-19,7c-6.8-1.1-13.8-5.2-20.8-12.2s-11.1-14-12.1-20.7
+                                                   c-1.2-7,1.1-13.1,7-19s11.9-8.1,19.1-7c6.9,1.1,13.9,5.1,20.8,12s10.9,13.9,12,20.8C368.9,191.6,366.7,197.6,360.8,203.5z"/>
+                                             </g>
+                                          </g>
+                                          <g>
+                                             <g>
+                                                <circle  cx="437.7" cy="79.3" r="25.6"/>
+                                             </g>
+                                          </g>
+                                       </svg>
+                                    </div>
+                                 </div>
+                              </div>
+                              <h6 class="font-weight-600 font-size-15 mb-1 mt-3"> <b>Big Data</b> <br>(Spark | Kafka)</h6>
                               <!-- <p class="mb-0">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p> -->
                            </div>
                         </div>
+                        <div class="col-md-4 mb-3 mb-lg-0">
+                           <div class="service text-center">
+                              <div class="outer ui-icon-outer-lg  radius-2 m-auto">
+                                 <div class="ui-icon ui-icon-lg  inner ">
+                                    <div class="ui-icon-inner ui-icon-inner-lg">
+                                       <svg version="1.1" class="max-width-1-7 svg-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                                          viewBox="0 0 526 512" enable-background="new 0 0 526 512;" xml:space="preserve">
+                                          <g>
+                                             <g>
+                                                <path  d="M263,51.2c-141.4,0-256,114.6-256,256C7,364.9,26.3,418,58.5,460.8h408.9C499.7,418,519,364.9,519,307.2
+                                                   C519,165.8,404.4,51.2,263,51.2z M454.3,435.2H71.7c-25.6-38.1-39.1-82.1-39.1-128C32.6,180.2,136,76.8,263,76.8
+                                                   s230.4,103.4,230.4,230.4C493.4,353.1,479.9,397.1,454.3,435.2z"/>
+                                             </g>
+                                          </g>
+                                          <g>
+                                             <g>
+                                                <path  d="M263,89.6c-7.1,0-12.8,5.7-12.8,12.8V128c0,7.1,5.7,12.8,12.8,12.8s12.8-5.7,12.8-12.8v-25.6
+                                                   C275.8,95.3,270.1,89.6,263,89.6z"/>
+                                             </g>
+                                          </g>
+                                          <g>
+                                             <g>
+                                                <path  d="M416.9,153.3c-5-5-13.1-5-18.1,0l-18.1,18.1c-5,5-5,13.1,0,18.1c2.5,2.5,5.8,3.7,9.1,3.7
+                                                   c3.3,0,6.6-1.2,9.1-3.7l18.1-18.1C421.9,166.4,421.9,158.3,416.9,153.3z"/>
+                                             </g>
+                                          </g>
+                                          <g>
+                                             <g>
+                                                <path  d="M467.8,294.4h-25.6c-7.1,0-12.8,5.7-12.8,12.8s5.7,12.8,12.8,12.8h25.6c7.1,0,12.8-5.7,12.8-12.8
+                                                   S474.9,294.4,467.8,294.4z"/>
+                                             </g>
+                                          </g>
+                                          <g>
+                                             <g>
+                                                <path  d="M145.3,171.4l-18.1-18.1c-5-5-13.1-5-18.1,0s-5,13.1,0,18.1l18.1,18.1c2.5,2.5,5.8,3.7,9,3.7
+                                                   c3.3,0,6.6-1.2,9.1-3.7C150.3,184.5,150.3,176.4,145.3,171.4z"/>
+                                             </g>
+                                          </g>
+                                          <g>
+                                             <g>
+                                                <path d="M83.8,294.4H58.2c-7.1,0-12.8,5.7-12.8,12.8S51.1,320,58.2,320h25.6c7.1,0,12.8-5.7,12.8-12.8
+                                                   S90.9,294.4,83.8,294.4z"/>
+                                             </g>
+                                          </g>
+                                          <g>
+                                             <g>
+                                                <path  d="M296.9,272c-10.8-9.4-24.8-15.1-38.3-20.7c-24.7-10.2-134.7-32.3-156.5-36.6c-5.1-1-10.2-0.4-14.8,1.5
+                                                   c-6.1,2.5-11.2,7.4-13.9,13.9c-4.7,11.3-0.7,24.3,9.4,31.1c18.5,12.4,111.8,74.6,136.6,84.8c20.3,8.4,43.2,17.9,64.9,9
+                                                   c8-3.3,19-10.7,25.7-26.9C318.6,307.1,313.9,286.7,296.9,272z M286.3,318.1c-2.9,6.9-6.9,11-11.8,13c-11.8,4.9-28.6-2-45.3-9
+                                                   c-23.7-9.8-132.1-82.4-132.1-82.4s128.1,25.3,151.7,35.1C272.5,284.7,296.1,294.5,286.3,318.1z"/>
+                                             </g>
+                                          </g>
+                                       </svg>
+                                    </div>
+                                 </div>
+                              </div>
+                              <h6 class="font-weight-600 font-size-15 mb-1 mt-3"> <b>Automation</b><br>(processes | pipelines)</h6>
+                              <!-- <p class="mb-0">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p> -->
+                           </div>
+                        </div>
+                        <div class="col-md-4 mb-3 mb-lg-0">
+                           <div class="service text-center">
+                              <div class="outer ui-icon-outer-lg  radius-2 m-auto">
+                                 <div class="ui-icon ui-icon-lg  inner ">
+                                    <div class="ui-icon-inner ui-icon-inner-lg">
+                                       <svg version="1.1" class="max-width-1-7 svg-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                                          viewBox="0 0 517 517" enable-background="new 0 0 517 517;" xml:space="preserve">
+                                          <g>
+                                             <g>
+                                                <path  d="M258.5,2.5c-141.4,0-256,114.6-256,256s114.6,256,256,256s256-114.6,256-256S399.9,2.5,258.5,2.5z
+                                                   M174.7,44.1c-24.9,27.1-44.7,66.1-56.8,112H52.2C77.7,105.2,121.4,65,174.7,44.1z M28.1,258.5c0-27,5.1-52.7,13.7-76.8h70.5
+                                                   c-4.6,24.3-7.4,50-7.4,76.8s2.7,52.5,7.3,76.8H41.8C33.2,311.2,28.1,285.5,28.1,258.5z M52.2,360.9H118
+                                                   c12.1,45.9,31.8,84.9,56.8,112C121.4,452,77.7,411.8,52.2,360.9z M245.7,487.7c-43.8-8.3-81.9-58.2-101.4-126.8h101.4L245.7,487.7
+                                                   L245.7,487.7z M245.7,335.3H138.2c-4.9-24.2-7.7-50-7.7-76.8s2.8-52.6,7.7-76.8h107.5V335.3z M245.7,156.1H144.3
+                                                   c19.5-68.5,57.5-118.5,101.4-126.8L245.7,156.1L245.7,156.1z M464.8,156.1H399c-12.1-45.9-31.8-84.9-56.8-112
+                                                   C395.6,65,439.3,105.2,464.8,156.1z M271.3,29.3c43.8,8.3,81.9,58.2,101.4,126.8H271.3V29.3z M271.3,181.7h107.5
+                                                   c4.9,24.2,7.7,50,7.7,76.8s-2.8,52.6-7.7,76.8H271.3V181.7z M271.3,487.7V360.9h101.4C353.2,429.4,315.1,479.4,271.3,487.7z
+                                                   M342.3,472.9c24.9-27.1,44.7-66.1,56.8-112h65.7C439.3,411.8,395.6,452,342.3,472.9z M404.7,335.3c4.6-24.3,7.4-50,7.4-76.8
+                                                   s-2.7-52.5-7.3-76.8h70.5c8.6,24.1,13.7,49.8,13.7,76.8s-5.1,52.7-13.7,76.8H404.7z"/>
+                                             </g>
+                                          </g>
+                                       </svg>
+                                    </div>
+                                 </div>
+                              </div>
+                              <h6 class="font-weight-600 font-size-15 mb-1 mt-3"> <b>Cloud</b> <br>(AWS | Azure)</h6>
+                              <!-- <p class="mb-0">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p> -->
+                           </div>
+                        </div>                       
                      </div>
-                     
+                     <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+                     <!-- ################################################################################################################################### -->
                      
                      
                      <div class="row">
@@ -1247,7 +1558,7 @@
                            <hr class="divider divider-lg divider-center ">
                         </div>
                         <div class="col-md-6 text-left mb-2 mb-lg-0">
-                           <a class="float-left" href="assets/docs/Usman_Resume.pdf">
+                           <a class="float-left" href="assets/docs/Usman_Ghani_Mughal.pdf">
                               <div class="media  align-items-center">
                                  <div class="outer radius-2 mr-3">
                                     <div class="ui-icon ui-icon-md inner ">
@@ -1276,7 +1587,7 @@
                            </a>
                         </div>
                         <div class="col-md-6 text-left mb-2 mb-lg-0">
-                           <a class="float-md-right" href="assets/docs/Usman_Resume.pdf">
+                           <a class="float-md-right" href="assets/docs/Usman_Ghani_Mughal.pdf">
                               <div class="media  align-items-center">
                                  <div class="outer radius-2  mr-3">
                                     <div class="ui-icon ui-icon-md inner ">
@@ -1581,7 +1892,7 @@
                            <hr class="divider divider-lg divider-center ">
                         </div>
                         <div class="col-md-6 text-left mb-2 mb-lg-0">
-                           <a class="float-left" href="assets/docs/Usman_Resume.pdf">
+                           <a class="float-left" href="assets/docs/Usman_Ghani_Mughal.pdf">
                               <div class="media  align-items-center">
                                  <div class="outer radius-2 mr-3">
                                     <div class="ui-icon ui-icon-md inner ">
@@ -1610,7 +1921,7 @@
                            </a>
                         </div>
                         <div class="col-md-6 text-left mb-2 mb-lg-0">
-                           <a class="float-md-right" href="assets/docs/Usman_Resume.pdf">
+                           <a class="float-md-right" href="assets/docs/Usman_Ghani_Mughal.pdf">
                               <div class="media  align-items-center">
                                  <div class="outer radius-2  mr-3">
                                     <div class="ui-icon ui-icon-md inner ">
@@ -1667,6 +1978,7 @@
                         </div>
                      </div>
                      <div class="row">
+                        <!-- ------------------------------------------------------------------------------------------------ -->
                         <div class="col-md-12">
                            <div class="mb-4 item">
                               <a class="radius-1 shadow-inner d-block " href="assets/docs/usman_data_engineering_nano_degree.pdf">
@@ -1722,6 +2034,84 @@
                                </ul> 
                            </p>
                         </div>
+                        <!-- ------------------------------------------------------------------------------------------------ -->
+
+                        <!-- ------------------------------------------------------------------------------------------------ -->
+                        <div class="col-md-12">
+                           <div class="mb-4 item">
+                              <a class="radius-1 shadow-inner d-block " href="assets/docs/ETL and Data Pipelines with Shell Airflow and Kafka.pdf">
+                                 <div class="  p-2  ">
+                                    <div class="shadow radius-1">
+                                       <img class="img-fluid radius-1" src="assets/img/blog/ETL_PIPELINES.png" alt="">
+                                    </div>
+                                 </div>
+                              </a>
+                           </div>
+                           <div>
+                              <h1 class="h5 font-weight-500 d-inline-block"><a href="assets/docs/usman_data_engineering_nano_degree.pdf">ETL and Data Pipelines with Shell, Airflow and Kafka (Coursera | IBM)</a></h1>
+                              <span class="d-inline-block shadow-inner text-secondary radius-1 font-size-13 mb-3 mb-lg-0  px-3">26 Noc 2022</span>
+                           </div>
+                           <hr class="mt-3 mb-3">
+                        </div>
+                        <!-- ------------------------------------------------------------------------------------------------ -->
+
+                        <!-- ------------------------------------------------------------------------------------------------ -->
+                        <div class="col-md-12">
+                           <div class="mb-4 item">
+                              <a class="radius-1 shadow-inner d-block " href="assets/docs/Introduction to Big Data with Spark and Hadoop.pdf">
+                                 <div class="  p-2  ">
+                                    <div class="shadow radius-1">
+                                       <img class="img-fluid radius-1" src="assets/img/blog/spark_hadoop.png" alt="">
+                                    </div>
+                                 </div>
+                              </a>
+                           </div>
+                           <div>
+                              <h1 class="h5 font-weight-500 d-inline-block"><a href="assets/docs/usman_data_engineering_nano_degree.pdf">Introduction to Big Data with Spark and Hadoop (Coursera | IBM)</a></h1>
+                              <span class="d-inline-block shadow-inner text-secondary radius-1 font-size-13 mb-3 mb-lg-0  px-3">2 Oct 2022</span>
+                           </div>
+                           <hr class="mt-3 mb-3">
+                        </div>
+                        <!-- ------------------------------------------------------------------------------------------------ -->
+
+                        <!-- ------------------------------------------------------------------------------------------------ -->
+                        <div class="col-md-12">
+                           <div class="mb-4 item">
+                              <a class="radius-1 shadow-inner d-block " href="assets/docs/Apache Spark Essential Training Big Data Engineering.pdf">
+                                 <div class="  p-2  ">
+                                    <div class="shadow radius-1">
+                                       <img class="img-fluid radius-1" src="assets/img/blog/apache_spark.png" alt="">
+                                    </div>
+                                 </div>
+                              </a>
+                           </div>
+                           <div>
+                              <h1 class="h5 font-weight-500 d-inline-block"><a href="assets/docs/usman_data_engineering_nano_degree.pdf">Apache Spark Essential Training: Big Data Engineering (LinkedIn Learning)</a></h1>
+                              <span class="d-inline-block shadow-inner text-secondary radius-1 font-size-13 mb-3 mb-lg-0  px-3">20 Dec 2022</span>
+                           </div>
+                           <hr class="mt-3 mb-3">
+                        </div>
+                        <!-- ------------------------------------------------------------------------------------------------ -->
+
+                        <!-- ------------------------------------------------------------------------------------------------ -->
+                        <div class="col-md-12">
+                           <div class="mb-4 item">
+                              <a class="radius-1 shadow-inner d-block " href="assets/docs/Advanced SQL for Query Tuning and Performance Optimization.pdf">
+                                 <div class="  p-2  ">
+                                    <div class="shadow radius-1">
+                                       <img class="img-fluid radius-1" src="assets/img/blog/advance_sql.png" alt="">
+                                    </div>
+                                 </div>
+                              </a>
+                           </div>
+                           <div>
+                              <h1 class="h5 font-weight-500 d-inline-block"><a href="assets/docs/usman_data_engineering_nano_degree.pdf">Advanced SQL for Query Tuning and Performance Optimization (LinkedIn Learning)</a></h1>
+                              <span class="d-inline-block shadow-inner text-secondary radius-1 font-size-13 mb-3 mb-lg-0  px-3">13 Dec 2022</span>
+                           </div>
+                           <hr class="mt-3 mb-3">
+                        </div>
+                        <!-- ------------------------------------------------------------------------------------------------ -->
+
                         <div class="col-md-12 mt-4 mb-6">
                            <hr class="divider divider-md divider-center ">
                         </div>
@@ -1809,7 +2199,7 @@
                            <hr class="divider divider-lg divider-center ">
                         </div>
                         <div class="col-md-6 text-left mb-2 mb-lg-0">
-                           <a class="float-left" href="assets/docs/Usman_Resume.pdf">
+                           <a class="float-left" href="assets/docs/Usman_Ghani_Mughal.pdf">
                               <div class="media  align-items-center">
                                  <div class="outer radius-2 mr-3">
                                     <div class="ui-icon ui-icon-md inner ">
@@ -1838,7 +2228,7 @@
                            </a>
                         </div>
                         <div class="col-md-6 text-left mb-2 mb-lg-0">
-                           <a class="float-md-right" href="assets/docs/Usman_Resume.pdf">
+                           <a class="float-md-right" href="assets/docs/Usman_Ghani_Mughal.pdf">
                               <div class="media  align-items-center">
                                  <div class="outer radius-2  mr-3">
                                     <div class="ui-icon ui-icon-md inner ">
@@ -2088,7 +2478,7 @@
                            <hr class="divider divider-lg divider-center ">
                         </div>
                         <div class="col-md-6 text-left mb-2 mb-lg-0">
-                           <a class="float-left" href="assets/docs/Usman_Resume.pdf">
+                           <a class="float-left" href="assets/docs/Usman_Ghani_Mughal.pdf">
                               <div class="media  align-items-center">
                                  <div class="outer radius-2 mr-3">
                                     <div class="ui-icon ui-icon-md inner ">
@@ -2118,7 +2508,7 @@
                            </a>
                         </div>
                         <div class="col-md-6 text-left mb-2 mb-lg-0">
-                           <a class="float-md-right" href="assets/docs/Usman_Resume.pdf">
+                           <a class="float-md-right" href="assets/docs/Usman_Ghani_Mughal.pdf">
                               <div class="media  align-items-center">
                                  <div class="outer radius-2  mr-3">
                                     <div class="ui-icon ui-icon-md inner ">
@@ -2180,7 +2570,7 @@
                      <header class="shadow bg-light radius-2 px-4 py-6 text-center ">
                         <div class="profile-image">
                            <div class="profile-image-border">
-                              <img class="rounded-circle" src="assets/img/profile/usman_pic.jpg" alt="/">
+                              <img class="rounded-circle" src="assets/img/profile/usman_pic_new.jpeg" alt="/">
                            </div>
                         </div>
                         <div class="mt-4 mb-5">
